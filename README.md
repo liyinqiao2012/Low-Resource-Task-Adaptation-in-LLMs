@@ -1,5 +1,10 @@
 # Tutorial Series #1: _Low-Resource Task Adaptation in LLMs_
+
 Lecture 1: https://youtu.be/ho6TXCtjbBY
+
+## Survey Paper
+
+A preprint of our survey paper is available [here](https://doi.org/10.6084/m9.figshare.33980554).
 
 ## Citation
 
